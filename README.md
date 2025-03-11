@@ -1,4 +1,4 @@
-# lhlproject
+# Lighthouse Labs Cybersecurity Program projects
 Lighthouse Labs Project Space
 
 1. [Nework Administration](https://drive.google.com/file/d/1byeKaFiPvWcahVM_5mlGcWLTt1upsnkb/view?usp=sharing)
