@@ -1,5 +1,5 @@
 # Lighthouse Labs Cybersecurity Program projects
-Lighthouse Labs Project Space
+### Lighthouse Labs Project Space - Click on the heading to see the completed project and it's evaulation.
 
 1. [Nework Administration](https://drive.google.com/file/d/1tlBesesnekpW8tMI69WgcqJgEAkOoanA/view?usp=sharing)
 
